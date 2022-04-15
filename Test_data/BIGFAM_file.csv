@@ -1,0 +1,286 @@
+﻿strain,BGC,class,length (kb),completeness,best hit,distance,details
+Micromonospora terminaliae TMS7,c00001_NZ_JAAH...region001.gbk,Unknown:unknown,20.74,complete,GCF_01594,655,view
+Micromonospora terminaliae TMS7,c00001_NZ_JAAH...region002.gbk,Unknown:unknown,20.96,complete,GCF_01599,597,view
+Micromonospora terminaliae TMS7,c00001_NZ_JAAH...region003.gbk,Unknown:unknown,14.79,complete,GCF_21064,1174,view
+Micromonospora terminaliae TMS7,c00002_NZ_JAAH...region001.gbk,Unknown:unknown,138.47,complete,GCF_04428,497,view
+Micromonospora terminaliae TMS7,c00006_NZ_JAAH...region001.gbk,Unknown:unknown,11.78,complete,GCF_00640,766,view
+Micromonospora terminaliae TMS7,c00009_NZ_JAAH...region001.gbk,Unknown:unknown,41.05,complete,GCF_00590,708,view
+Micromonospora terminaliae TMS7,c00011_NZ_JAAH...region001.gbk,Unknown:unknown,62.51,complete,GCF_04427,820,view
+Micromonospora terminaliae TMS7,c00012_NZ_JAAH...region001.gbk,Unknown:unknown,21.12,complete,GCF_03035,1009,view
+Micromonospora terminaliae TMS7,c00012_NZ_JAAH...region002.gbk,Unknown:unknown,72.52,complete,GCF_12156,519,view
+Micromonospora terminaliae TMS7,c00012_NZ_JAAH...region003.gbk,Unknown:unknown,22.58,complete,GCF_01133,1023,view
+Micromonospora terminaliae TMS7,c00015_NZ_JAAH...region001.gbk,Unknown:unknown,24.66,complete,GCF_01598,876,view
+Micromonospora terminaliae TMS7,c00016_NZ_JAAH...region001.gbk,Unknown:unknown,21.26,complete,GCF_01593,541,view
+Micromonospora terminaliae TMS7,c00029_NZ_JAAH...region001.gbk,Unknown:unknown,20.95,complete,GCF_09234,988,
+Micromonospora musae MS1-9,NZ_RAZT01000001.region001.gbk,Unknown:unknown,20.39,complete,GCF_21001,632,view
+Micromonospora musae MS1-9,NZ_RAZT01000001.region002.gbk,Unknown:unknown,26.05,complete,GCF_07668,459,view
+Micromonospora musae MS1-9,NZ_RAZT01000001.region003.gbk,Unknown:unknown,13.22,complete,GCF_01140,976,view
+Micromonospora musae MS1-9,NZ_RAZT01000003.region001.gbk,Unknown:unknown,22.8,complete,GCF_01598,672,view
+Micromonospora musae MS1-9,NZ_RAZT01000003.region002.gbk,Unknown:unknown,20.94,complete,GCF_09234,908,view
+Micromonospora musae MS1-9,NZ_RAZT01000004.region001.gbk,Unknown:unknown,44.19,complete,GCF_17736,753,view
+Micromonospora musae MS1-9,NZ_RAZT01000004.region002.gbk,Unknown:unknown,43.02,complete,GCF_03075,940,view
+Micromonospora musae MS1-9,NZ_RAZT01000006.region001.gbk,Unknown:unknown,33.44,complete,GCF_13141,1107,view
+Micromonospora musae MS1-9,NZ_RAZT01000008.region001.gbk,Unknown:unknown,41.05,complete,GCF_00590,541,view
+Micromonospora musae MS1-9,NZ_RAZT01000009.region001.gbk,Unknown:unknown,11.89,complete,GCF_00640,888,view
+Micromonospora musae MS1-9,NZ_RAZT01000009.region002.gbk,Unknown:unknown,72.52,complete,GCF_07670,655,view
+Micromonospora musae MS1-9,NZ_RAZT01000012.region001.gbk,Unknown:unknown,65.54,complete,GCF_09568,711,view
+Micromonospora musae MS1-9,NZ_RAZT01000014.region001.gbk,Unknown:unknown,20.96,complete,GCF_01594,809,
+Micromonospora musae NGC1-4,NZ_RAZS01000001.region001.gbk,Unknown:unknown,20.96,complete,GCF_01594,765,view
+Micromonospora musae NGC1-4,NZ_RAZS01000002.region001.gbk,Unknown:unknown,39.5,complete,GCF_17736,740,view
+Micromonospora musae NGC1-4,NZ_RAZS01000002.region002.gbk,Unknown:unknown,43.02,complete,GCF_03075,864,view
+Micromonospora musae NGC1-4,NZ_RAZS01000002.region003.gbk,Unknown:unknown,11.84,complete,GCF_00640,888,view
+Micromonospora musae NGC1-4,NZ_RAZS01000003.region001.gbk,Unknown:unknown,33.34,complete,GCF_13141,1123,view
+Micromonospora musae NGC1-4,NZ_RAZS01000003.region002.gbk,Unknown:unknown,13.22,complete,GCF_01140,979,view
+Micromonospora musae NGC1-4,NZ_RAZS01000003.region003.gbk,Unknown:unknown,24.76,complete,GCF_07668,459,view
+Micromonospora musae NGC1-4,NZ_RAZS01000003.region004.gbk,Unknown:unknown,21.24,complete,GCF_21001,632,view
+Micromonospora musae NGC1-4,NZ_RAZS01000005.region001.gbk,Unknown:unknown,20.94,complete,GCF_09234,908,view
+Micromonospora musae NGC1-4,NZ_RAZS01000007.region001.gbk,Unknown:unknown,41.05,complete,GCF_00590,541,view
+Micromonospora musae NGC1-4,NZ_RAZS01000010.region001.gbk,Unknown:unknown,65.47,complete,GCF_09568,690,view
+Micromonospora musae NGC1-4,NZ_RAZS01000011.region001.gbk,Unknown:unknown,72.52,complete,GCF_07670,687,view
+Micromonospora musae NGC1-4,NZ_RAZS01000014.region001.gbk,Unknown:unknown,23.54,complete,GCF_01598,672,
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region001.gbk,Unknown:unknown,19.51,complete,GCF_01594,486,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region002.gbk,Unknown:unknown,18.99,complete,GCF_01599,586,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region003.gbk,Unknown:unknown,54.06,complete,GCF_15744,0,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region004.gbk,Unknown:unknown,43.73,complete,GCF_15743,0,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region005.gbk,Unknown:unknown,20.07,complete,GCF_12195,915,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region006.gbk,Unknown:unknown,83.2,complete,GCF_15748,640,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region007.gbk,Unknown:unknown,70.9,complete,GCF_07405,1063,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region008.gbk,Unknown:unknown,11.87,complete,GCF_00640,873,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region009.gbk,Unknown:unknown,53.59,complete,GCF_15742,1146,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region010.gbk,Unknown:unknown,22.6,complete,GCF_01133,840,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region011.gbk,Unknown:unknown,72.48,complete,GCF_15746,120,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region012.gbk,Unknown:unknown,33.89,complete,GCF_15745,480,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region013.gbk,Unknown:unknown,10.82,complete,GCF_01598,411,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region014.gbk,Unknown:unknown,20.97,complete,GCF_00692,1033,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region015.gbk,Unknown:unknown,58.42,complete,GCF_15747,769,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region016.gbk,Unknown:unknown,20.28,complete,GCF_00885,755,view
+Micromonospora lupini str. Lupac 08,NZ_HF570108.1.region017.gbk,Unknown:unknown,41.05,complete,GCF_00590,558,
+Micromonospora costi strain CS1-12,NZ_RBAN01000001.region001.gbk,Unknown:unknown,20.91,complete,GCF_01594,683,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000002.region001.gbk,Unknown:unknown,34.02,complete,GCF_14859,658,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000002.region002.gbk,Unknown:unknown,10.83,complete,GCF_01598,460,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000002.region003.gbk,Unknown:unknown,20.95,complete,GCF_09234,942,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000003.region001.gbk,Unknown:unknown,41.08,complete,GCF_00590,641,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000004.region001.gbk,Unknown:unknown,72.52,complete,GCF_14858,806,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000004.region002.gbk,Unknown:unknown,11.82,complete,GCF_00640,1064,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000011.region001.gbk,Unknown:unknown,25.72,complete,GCF_07668,576,view
+Micromonospora costi strain CS1-12,NZ_RBAN01000011.region002.gbk,Unknown:unknown,21.41,complete,GCF_00692,887,
+Micromonospora veneta CAP181T,c00007_NZ_JAEM...region001.gbk,Unknown:unknown,10.82,complete,GCF_01598,398,view
+Micromonospora veneta CAP181T,c00013_NZ_JAEM...region001.gbk,Unknown:unknown,21.21,complete,GCF_01593,854,view
+Micromonospora veneta CAP181T,c00022_NZ_JAEM...region001.gbk,Unknown:unknown,72.56,complete,GCF_04913,921,view
+Micromonospora veneta CAP181T,c00033_NZ_JAEM...region001.gbk,Unknown:unknown,20.6,complete,GCF_01594,511,view
+Micromonospora veneta CAP181T,c00033_NZ_JAEM...region002.gbk,Unknown:unknown,20.97,complete,GCF_01599,581,view
+Micromonospora veneta CAP181T,c00055_NZ_JAEM...region001.gbk,Unknown:unknown,14.8,complete,GCF_21064,1101,view
+Micromonospora veneta CAP181T,c00066_NZ_JAEM...region001.gbk,Unknown:unknown,20.95,complete,GCF_09234,954,view
+Micromonospora veneta CAP181T,c00077_NZ_JAEM...region001.gbk,Unknown:unknown,11.79,complete,GCF_00640,444,view
+Micromonospora veneta CAP181T,c00088_NZ_JAEM...region001.gbk,Unknown:unknown,41.05,complete,GCF_00590,495,
+Micromonospora radicis AZ1-13,NZ_QXEC01000001.region001.gbk,Unknown:unknown,72.53,complete,GCF_04721,1040,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000001.region002.gbk,Unknown:unknown,109.28,complete,GCF_13201,255,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000001.region003.gbk,Unknown:unknown,21.25,complete,GCF_10650,807,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000003.region001.gbk,Unknown:unknown,51.88,complete,GCF_13199,695,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000003.region002.gbk,Unknown:unknown,45.8,complete,GCF_13200,0,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000003.region003.gbk,Unknown:unknown,55.97,complete,GCF_10392,2395,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000003.region004.gbk,Unknown:unknown,34.49,complete,GCF_13141,784,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000007.region001.gbk,Unknown:unknown,50.2,complete,GCF_13202,441,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000008.region001.gbk,Unknown:unknown,20.91,complete,GCF_01594,651,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000010.region001.gbk,Unknown:unknown,20.94,complete,GCF_09234,928,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000014.region001.gbk,Unknown:unknown,11.87,complete,GCF_00640,777,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000021.region001.gbk,Unknown:unknown,21.06,complete,GCF_01599,648,view
+Micromonospora radicis AZ1-13,NZ_QXEC01000028.region001.gbk,Unknown:unknown,14.82,complete,GCF_21064,779,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region001.gbk,Unknown:unknown,110.02,complete,GCF_25483,281,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region002.gbk,Unknown:unknown,19.27,complete,GCF_25854,652,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region003.gbk,Unknown:unknown,18.74,complete,GCF_09234,496,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region004.gbk,Unknown:unknown,10.4,complete,GCF_00822,846,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region005.gbk,Unknown:unknown,9.38,complete,GCF_01835,912,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region006.gbk,Unknown:unknown,10.76,complete,GCF_00640,905,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region007.gbk,Unknown:unknown,10.13,complete,GCF_01835,713,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region008.gbk,Unknown:unknown,20.32,complete,GCF_18936,363,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region009.gbk,Unknown:unknown,72.52,complete,GCF_01979,529,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region010.gbk,Unknown:unknown,10.73,complete,GCF_13384,428,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region011.gbk,Unknown:unknown,84.39,complete,GCF_06481,645,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region012.gbk,Unknown:unknown,10.3,complete,GCF_00876,580,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region013.gbk,Unknown:unknown,20.68,complete,GCF_02104,605,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region014.gbk,Unknown:unknown,13.12,complete,GCF_11904,444,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region015.gbk,Unknown:unknown,25.93,complete,GCF_00055,632,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region016.gbk,Unknown:unknown,10.22,complete,GCF_00001,708,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region017.gbk,Unknown:unknown,10.38,complete,GCF_02870,581,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region018.gbk,Unknown:unknown,75.19,complete,GCF_06483,830,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region019.gbk,Unknown:unknown,25.66,complete,GCF_00998,852,view
+Streptomyces sp. SS1-1 ,NZ_WBXN01000004.region020.gbk,Unknown:unknown,41.19,complete,GCF_14805,543,
+Streptomyces mimosae 3MP-10,NZ_VDLY02000002.region002.gbk,Unknown:unknown,46.14,complete,GCF_10538,560,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000002.region003.gbk,Unknown:unknown,72.49,complete,GCF_10536,85,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000003.region001.gbk,Unknown:unknown,21.22,complete,GCF_09234,941,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000004.region001.gbk,Unknown:unknown,10.85,complete,GCF_00876,861,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000004.region002.gbk,Unknown:unknown,90.23,complete,GCF_10537,222,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000006.region002.gbk,Unknown:unknown,21.84,complete,GCF_06045,448,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000008.region001.gbk,Unknown:unknown,20.82,complete,GCF_09505,662,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000012.region001.gbk,Unknown:unknown,22.41,complete,GCF_09234,1321,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000013.region001.gbk,Unknown:unknown,37.02,complete,GCF_01133,1171,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000015.region001.gbk,Unknown:unknown,9.94,complete,GCF_18481,723,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000018.region001.gbk,Unknown:unknown,45.38,complete,GCF_09663,664,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000020.region001.gbk,Unknown:unknown,49.37,complete,GCF_10535,442,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000022.region001.gbk,Unknown:unknown,19.28,complete,GCF_00066,766,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000022.region002.gbk,Unknown:unknown,21.22,complete,GCF_21001,1023,view
+Streptomyces mimosae 3MP-10,NZ_VDLY02000036.region001.gbk,Unknown:unknown,10.4,complete,GCF_00822,389,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000010.region001.gbk,Unknown:unknown,10.83,complete,GCF_02656,658,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000040.region001.gbk,Unknown:unknown,21.09,complete,GCF_18936,408,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000053.region001.gbk,Unknown:unknown,13.51,complete,GCF_13384,492,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000099.region001.gbk,Unknown:unknown,11.01,complete,GCF_03897,743,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000155.region001.gbk,Unknown:unknown,25.39,complete,GCF_07676,1097,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000157.region001.gbk,Unknown:unknown,72.52,complete,GCF_21231,370,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000157.region002.gbk,Unknown:unknown,54.86,complete,GCF_02878,1427,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000158.region001.gbk,Unknown:unknown,38.11,complete,GCF_13141,839,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000158.region002.gbk,Unknown:unknown,22.8,complete,GCF_02104,475,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000163.region001.gbk,Unknown:unknown,10.41,complete,GCF_00001,669,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000164.region001.gbk,Unknown:unknown,10.22,complete,GCF_00001,708,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000166.region001.gbk,Unknown:unknown,22.45,complete,GCF_00885,786,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000167.region001.gbk,Unknown:unknown,10.41,complete,GCF_00822,841,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000168.region001.gbk,Unknown:unknown,43.27,complete,GCF_21230,630,view
+Streptomyces kebangsaanensis SUK12,NZ_JUJA01000170.region001.gbk,Unknown:unknown,11.77,complete,GCF_00640,883,
+Streptomyces sp. XY006,NZ_NOKT01000001.region001.gbk,Unknown:unknown,21.18,complete,GCF_01137,669,view
+Streptomyces sp. XY006,NZ_NOKT01000001.region002.gbk,Unknown:unknown,67.4,complete,GCF_16897,0,view
+Streptomyces sp. XY006,NZ_NOKT01000001.region003.gbk,Unknown:unknown,20.92,complete,GCF_16891,170,view
+Streptomyces sp. XY006,NZ_NOKT01000001.region004.gbk,Unknown:unknown,21.04,complete,GCF_03329,1027,view
+Streptomyces sp. XY006,NZ_NOKT01000002.region001.gbk,Unknown:unknown,10.37,complete,GCF_02870,552,view
+Streptomyces sp. XY006,NZ_NOKT01000002.region002.gbk,Unknown:unknown,59.33,complete,GCF_06439,905,view
+Streptomyces sp. XY006,NZ_NOKT01000003.region001.gbk,Unknown:unknown,11.77,complete,GCF_00640,941,view
+Streptomyces sp. XY006,NZ_NOKT01000005.region001.gbk,Unknown:unknown,11.39,complete,GCF_00876,795,view
+Streptomyces sp. XY006,NZ_NOKT01000005.region002.gbk,Unknown:unknown,22.17,complete,GCF_02104,487,view
+Streptomyces sp. XY006,NZ_NOKT01000005.region003.gbk,Unknown:unknown,13.13,complete,GCF_11904,333,view
+Streptomyces sp. XY006,NZ_NOKT01000006.region001.gbk,Unknown:unknown,46.57,complete,GCF_16896,255,view
+Streptomyces sp. XY006,NZ_NOKT01000006.region002.gbk,Unknown:unknown,70.28,complete,GCF_16892,0,view
+Streptomyces sp. XY006,NZ_NOKT01000008.region001.gbk,Unknown:unknown,41.19,complete,GCF_13881,1054,view
+Streptomyces sp. XY006,NZ_NOKT01000010.region001.gbk,Unknown:unknown,11.87,complete,GCF_13384,524,view
+Streptomyces sp. XY006,NZ_NOKT01000011.region002.gbk,Unknown:unknown,51.38,complete,GCF_16893,208,view
+Streptomyces sp. XY006,NZ_NOKT01000012.region001.gbk,Unknown:unknown,41.01,complete,GCF_00824,931,view
+Streptomyces sp. XY006,NZ_NOKT01000013.region001.gbk,Unknown:unknown,20.94,complete,GCF_12852,1186,view
+Streptomyces sp. XY006,NZ_NOKT01000017.region002.gbk,Unknown:unknown,26.63,complete,GCF_00055,662,view
+Streptomyces sp. XY006,NZ_NOKT01000027.region001.gbk,Unknown:unknown,10.4,complete,GCF_00822,791,view
+Streptomyces sp. XY006,NZ_NOKT01000030.region001.gbk,Unknown:unknown,21.03,complete,GCF_09234,1176,view
+Streptomyces sp. XY006,NZ_NOKT01000030.region002.gbk,Unknown:unknown,27.55,complete,GCF_01977,558,view
+Streptomyces sp. XY006,NZ_NOKT01000034.region001.gbk,Unknown:unknown,21.01,complete,GCF_18936,458,view
+Streptomyces sp. XY006,NZ_NOKT01000039.region001.gbk,Unknown:unknown,51.24,complete,GCF_16894,601,view
+Streptomyces sp. XY006,NZ_NOKT01000040.region001.gbk,Unknown:unknown,22.56,complete,GCF_00885,752,view
+Streptomyces sp. XY006,NZ_NOKT01000054.region001.gbk,Unknown:unknown,11,complete,GCF_01835,591,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000001.region001.gbk,Unknown:unknown,41.04,complete,GCF_03592,994,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000001.region002.gbk,Unknown:unknown,13.96,complete,GCF_01140,998,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000001.region003.gbk,Unknown:unknown,10.23,complete,GCF_00001,688,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000001.region004.gbk,Unknown:unknown,20.45,complete,GCF_03048,1037,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000001.region005.gbk,Unknown:unknown,24.96,complete,GCF_11262,1093,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000001.region006.gbk,Unknown:unknown,62.1,complete,GCF_14211,1680,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000002.region001.gbk,Unknown:unknown,41.37,complete,GCF_00692,1334,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000002.region002.gbk,Unknown:unknown,44.1,complete,GCF_07353,1343,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000002.region003.gbk,Unknown:unknown,21.14,complete,GCF_03048,881,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000003.region001.gbk,Unknown:unknown,11.77,complete,GCF_00640,899,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000004.region001.gbk,Unknown:unknown,25.95,complete,GCF_00055,576,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000004.region002.gbk,Unknown:unknown,78.11,complete,GCF_05393,2000,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000005.region001.gbk,Unknown:unknown,22.64,complete,GCF_02708,672,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000006.region001.gbk,Unknown:unknown,44.24,complete,GCF_19286,903,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000007.region001.gbk,Unknown:unknown,20.98,complete,GCF_18936,353,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000008.region002.gbk,Unknown:unknown,11.34,complete,GCF_00876,639,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000011.region001.gbk,Unknown:unknown,10.41,complete,GCF_00822,741,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000017.region001.gbk,Unknown:unknown,21.19,complete,GCF_09234,1226,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000021.region001.gbk,Unknown:unknown,14.77,complete,GCF_13384,361,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000023.region001.gbk,Unknown:unknown,30.41,complete,GCF_14874,724,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000026.region002.gbk,Unknown:unknown,10.94,complete,GCF_02656,502,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000030.region002.gbk,Unknown:unknown,14.55,complete,GCF_02656,446,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000034.region001.gbk,Unknown:unknown,21.26,complete,GCF_01137,877,view
+Streptomyces longisporoflavus JCM 4396,NZ_BMTR01000044.region001.gbk,Unknown:unknown,22.59,complete,GCF_00885,705,view
+Streptomyces dioscori  A217,NZ_KZ679038.1.region001.gbk,Unknown:unknown,10.94,complete,GCF_02656,738,view
+Streptomyces dioscori  A217,NZ_KZ679038.1.region002.gbk,Unknown:unknown,25.66,complete,GCF_07676,886,view
+Streptomyces dioscori  A217,NZ_KZ679038.1.region003.gbk,Unknown:unknown,79.49,complete,GCF_19292,1300,view
+Streptomyces dioscori  A217,NZ_KZ679038.1.region004.gbk,Unknown:unknown,53.11,complete,GCF_19291,0,view
+Streptomyces dioscori  A217,NZ_KZ679038.1.region005.gbk,Unknown:unknown,44.46,complete,GCF_19288,360,view
+Streptomyces dioscori  A217,NZ_KZ679040.1.region001.gbk,Unknown:unknown,11.79,complete,GCF_00640,604,view
+Streptomyces dioscori  A217,NZ_KZ679040.1.region002.gbk,Unknown:unknown,10.5,complete,GCF_00096,479,view
+Streptomyces dioscori  A217,NZ_KZ679040.1.region003.gbk,Unknown:unknown,72.53,complete,GCF_00275,1122,view
+Streptomyces dioscori  A217,NZ_KZ679041.1.region002.gbk,Unknown:unknown,13.32,complete,GCF_11904,427,view
+Streptomyces dioscori  A217,NZ_KZ679042.1.region001.gbk,Unknown:unknown,41.11,complete,GCF_19294,0,view
+Streptomyces dioscori  A217,NZ_KZ679042.1.region002.gbk,Unknown:unknown,20.7,complete,GCF_00001,1225,view
+Streptomyces dioscori  A217,NZ_KZ679042.1.region003.gbk,Unknown:unknown,22.52,complete,GCF_00885,837,view
+Streptomyces dioscori  A217,NZ_KZ679042.1.region004.gbk,Unknown:unknown,48.07,complete,GCF_19295,0,view
+Streptomyces dioscori  A217,NZ_KZ679043.1.region001.gbk,Unknown:unknown,10.4,complete,GCF_00822,700,view
+Streptomyces dioscori  A217,NZ_KZ679046.1.region001.gbk,Unknown:unknown,40.85,complete,GCF_19287,407,view
+Streptomyces dioscori  A217,NZ_KZ679046.1.region002.gbk,Unknown:unknown,41.06,complete,GCF_00824,817,view
+Streptomyces dioscori  A217,NZ_KZ679046.1.region003.gbk,Unknown:unknown,52.1,complete,GCF_19293,255,view
+Streptomyces dioscori  A217,NZ_KZ679047.1.region001.gbk,Unknown:unknown,13.73,complete,GCF_01140,514,view
+Streptomyces dioscori  A217,NZ_KZ679048.1.region001.gbk,Unknown:unknown,33.82,complete,GCF_10242,826,view
+Streptomyces dioscori  A217,NZ_KZ679048.1.region002.gbk,Unknown:unknown,40.97,complete,GCF_00001,1149,view
+Streptomyces dioscori  A217,NZ_KZ679048.1.region003.gbk,Unknown:unknown,20.91,complete,GCF_14332,986,view
+Streptomyces dioscori  A217,NZ_KZ679049.1.region001.gbk,Unknown:unknown,48.17,complete,GCF_00272,836,view
+Streptomyces dioscori  A217,NZ_KZ679050.1.region001.gbk,Unknown:unknown,102.41,complete,GCF_00016,1998,view
+Streptomyces dioscori  A217,NZ_KZ679050.1.region002.gbk,Unknown:unknown,26.7,complete,GCF_00055,604,view
+Streptomyces dioscori  A217,NZ_KZ679050.1.region003.gbk,Unknown:unknown,53.38,complete,GCF_19289,0,view
+Streptomyces dioscori  A217,NZ_KZ679053.1.region002.gbk,Unknown:unknown,47.98,complete,GCF_19290,0,view
+Streptomyces dioscori  A217,NZ_KZ679055.1.region001.gbk,Unknown:unknown,33.93,complete,GCF_07410,857,view
+Streptomyces dioscori  A217,NZ_KZ679056.1.region001.gbk,Unknown:unknown,21.01,complete,GCF_18936,445,view
+Streptomyces dioscori  A217,NZ_KZ679057.1.region001.gbk,Unknown:unknown,15.45,complete,GCF_13384,434,view
+Streptomyces dioscori  A217,NZ_KZ679058.1.region001.gbk,Unknown:unknown,21.06,complete,GCF_02646,1101,view
+Streptomyces dioscori  A217,NZ_KZ679062.1.region001.gbk,Unknown:unknown,22.21,complete,GCF_02104,749,view
+Streptomyces dioscori  A217,NZ_KZ679064.1.region001.gbk,Unknown:unknown,11.32,complete,GCF_00876,650,view
+Streptomyces dioscori  A217,NZ_KZ679066.1.region001.gbk,Unknown:unknown,10.22,complete,GCF_00001,660,view
+Streptomyces typhae p1417,NZ_WPNZ01000001.region001.gbk,Unknown:unknown,20.99,complete,GCF_18936,386,view
+Streptomyces typhae p1417,NZ_WPNZ01000002.region001.gbk,Unknown:unknown,20.77,complete,GCF_01588,867,view
+Streptomyces typhae p1417,NZ_WPNZ01000002.region002.gbk,Unknown:unknown,46.66,complete,GCF_13636,120,view
+Streptomyces typhae p1417,NZ_WPNZ01000003.region001.gbk,Unknown:unknown,11.79,complete,GCF_00640,867,view
+Streptomyces typhae p1417,NZ_WPNZ01000004.region001.gbk,Unknown:unknown,150.98,complete,GCF_13634,0,view
+Streptomyces typhae p1417,NZ_WPNZ01000004.region002.gbk,Unknown:unknown,21.15,complete,GCF_09234,1004,view
+Streptomyces typhae p1417,NZ_WPNZ01000004.region003.gbk,Unknown:unknown,86.65,complete,GCF_13642,804,view
+Streptomyces typhae p1417,NZ_WPNZ01000005.region001.gbk,Unknown:unknown,46.36,complete,GCF_13641,857,view
+Streptomyces typhae p1417,NZ_WPNZ01000005.region002.gbk,Unknown:unknown,78.87,complete,GCF_11152,655,view
+Streptomyces typhae p1417,NZ_WPNZ01000005.region003.gbk,Unknown:unknown,125.12,complete,GCF_13639,550,view
+Streptomyces typhae p1417,NZ_WPNZ01000006.region001.gbk,Unknown:unknown,32.83,complete,GCF_00105,1197,view
+Streptomyces typhae p1417,NZ_WPNZ01000006.region002.gbk,Unknown:unknown,50.65,complete,GCF_13637,1085,view
+Streptomyces typhae p1417,NZ_WPNZ01000006.region003.gbk,Unknown:unknown,91.93,complete,GCF_08934,897,view
+Streptomyces typhae p1417,NZ_WPNZ01000008.region001.gbk,Unknown:unknown,70.1,complete,GCF_13640,460,view
+Streptomyces typhae p1417,NZ_WPNZ01000008.region002.gbk,Unknown:unknown,11.49,complete,GCF_00876,565,view
+Streptomyces typhae p1417,NZ_WPNZ01000009.region001.gbk,Unknown:unknown,10.38,complete,GCF_00096,819,view
+Streptomyces typhae p1417,NZ_WPNZ01000010.region001.gbk,Unknown:unknown,10.4,complete,GCF_00822,792,view
+Streptomyces typhae p1417,NZ_WPNZ01000011.region001.gbk,Unknown:unknown,18.65,complete,GCF_01018,1034,view
+Streptomyces typhae p1417,NZ_WPNZ01000011.region002.gbk,Unknown:unknown,22.22,complete,GCF_05386,693,view
+Streptomyces typhae p1417,NZ_WPNZ01000011.region003.gbk,Unknown:unknown,22.28,complete,GCF_08780,925,view
+Streptomyces typhae p1417,NZ_WPNZ01000011.region004.gbk,Unknown:unknown,44.73,complete,GCF_13633,540,view
+Streptomyces typhae p1417,NZ_WPNZ01000013.region001.gbk,Unknown:unknown,42.98,complete,GCF_13632,862,view
+Streptomyces typhae p1417,NZ_WPNZ01000015.region001.gbk,Unknown:unknown,10.23,complete,GCF_07410,714,view
+Streptomyces typhae p1417,NZ_WPNZ01000016.region001.gbk,Unknown:unknown,41.1,complete,GCF_03592,783,view
+Streptomyces typhae p1417,NZ_WPNZ01000017.region002.gbk,Unknown:unknown,41.33,complete,GCF_03761,1167,view
+Streptomyces typhae p1417,NZ_WPNZ01000018.region002.gbk,Unknown:unknown,90.61,complete,GCF_13638,240,view
+Streptomyces typhae p1417,NZ_WPNZ01000019.region002.gbk,Unknown:unknown,39.93,complete,GCF_13635,203,view
+Streptomyces typhae p1417,NZ_WPNZ01000020.region001.gbk,Unknown:unknown,10.4,complete,GCF_00096,482,view
+Streptomyces typhae p1417,NZ_WPNZ01000020.region002.gbk,Unknown:unknown,48.79,complete,GCF_01553,946,view
+Streptomyces typhae p1417,NZ_WPNZ01000022.region001.gbk,Unknown:unknown,59.83,complete,GCF_15847,824,view
+Streptomyces typhae p1417,NZ_WPNZ01000024.region001.gbk,Unknown:unknown,112.51,complete,GCF_11154,736,view
+Streptomyces typhae p1417,NZ_WPNZ01000026.region001.gbk,Unknown:unknown,15.35,complete,GCF_13384,434,view
+Streptomyces typhae p1417,NZ_WPNZ01000038.region001.gbk,Unknown:unknown,22.73,complete,GCF_17627,590,view
+Streptomyces coffeae CA1R205,c00002_NZ_JAER...region001.gbk,Unknown:unknown,10.93,complete,GCF_02656,586,view
+Streptomyces coffeae CA1R205,c00013_NZ_JAER...region001.gbk,Unknown:unknown,11.79,complete,GCF_00640,529,view
+Streptomyces coffeae CA1R205,c00024_NZ_JAER...region001.gbk,Unknown:unknown,49.06,complete,GCF_00002,2091,view
+Streptomyces coffeae CA1R205,c00024_NZ_JAER...region002.gbk,Unknown:unknown,48.97,complete,GCF_08555,1393,view
+Streptomyces coffeae CA1R205,c00046_NZ_JAER...region001.gbk,Unknown:unknown,44.08,complete,GCF_02701,627,view
+Streptomyces coffeae CA1R205,c00050_NZ_JAER...region001.gbk,Unknown:unknown,13.78,complete,GCF_01140,513,view
+Streptomyces coffeae CA1R205,c00051_NZ_JAER...region001.gbk,Unknown:unknown,11.31,complete,GCF_00876,652,view
+Streptomyces coffeae CA1R205,c00053_NZ_JAER...region002.gbk,Unknown:unknown,20.55,complete,GCF_00001,983,view
+Streptomyces coffeae CA1R205,c00054_NZ_JAER...region001.gbk,Unknown:unknown,11.83,complete,GCF_13384,491,view
+Streptomyces coffeae CA1R205,c00055_NZ_JAER...region001.gbk,Unknown:unknown,21.62,complete,GCF_21433,1199,view
+Streptomyces coffeae CA1R205,c00056_NZ_JAER...region001.gbk,Unknown:unknown,132.85,complete,GCF_07332,2261,view
+Streptomyces coffeae CA1R205,c00057_NZ_JAER...region001.gbk,Unknown:unknown,78.66,complete,GCF_00012,1058,view
+Streptomyces coffeae CA1R205,c00058_NZ_JAER...region001.gbk,Unknown:unknown,72.51,complete,GCF_02710,1632,view
+Streptomyces coffeae CA1R205,c00060_NZ_JAER...region001.gbk,Unknown:unknown,11.92,complete,GCF_01142,593,view
+Streptomyces coffeae CA1R205,c00060_NZ_JAER...region002.gbk,Unknown:unknown,39.73,complete,GCF_01821,1142,view
+Streptomyces coffeae CA1R205,c00061_NZ_JAER...region001.gbk,Unknown:unknown,46.4,complete,GCF_03757,1708,view
+Streptomyces coffeae CA1R205,c00063_NZ_JAER...region001.gbk,Unknown:unknown,21.16,complete,GCF_01137,777,view
+Streptomyces coffeae CA1R205,c00069_NZ_JAER...region001.gbk,Unknown:unknown,20.91,complete,GCF_10301,1106,view
+Streptomyces coffeae CA1R205,c00070_NZ_JAER...region001.gbk,Unknown:unknown,24.08,complete,GCF_17627,1036,view
+Streptomyces coffeae CA1R205,c00077_NZ_JAER...region001.gbk,Unknown:unknown,21.13,complete,GCF_01102,575,view
+Streptomyces coffeae CA1R205,c00088_NZ_JAER...region001.gbk,Unknown:unknown,10.4,complete,GCF_00822,676,view
+Streptomyces coffeae CA1R205,c00099_NZ_JAER...region001.gbk,Unknown:unknown,10.45,complete,GCF_00096,543,view
+Streptomyces coffeae CA1R205,c00099_NZ_JAER...region002.gbk,Unknown:unknown,10.22,complete,GCF_00001,609,view
+Streptomyces coffeae CA1R205,c00099_NZ_JAER...region003.gbk,Unknown:unknown,66.98,complete,GCF_00122,1694,view
+Streptomyces coffeae CA1R205,c00099_NZ_JAER...region004.gbk,Unknown:unknown,47.44,complete,GCF_13121,1881,view
+Streptomyces coffeae CA1R205,c00110_NZ_JAER...region001.gbk,Unknown:unknown,44.09,complete,GCF_00018,1132,view
+Streptomyces coffeae CA1R205,c00110_NZ_JAER...region002.gbk,Unknown:unknown,21.89,complete,GCF_02926,1194,view
+Streptomyces coffeae CA1R205,c00110_NZ_JAER...region003.gbk,Unknown:unknown,46.32,complete,GCF_25596,1875,view
+Streptomyces coffeae CA1R205,c00110_NZ_JAER...region004.gbk,Unknown:unknown,64.59,complete,GCF_00265,1317,view
+Streptomyces coffeae CA1R205,c00121_NZ_JAER...region001.gbk,Unknown:unknown,22.35,complete,GCF_01835,1204,view
+Streptomyces coffeae CA1R205,c00132_NZ_JAER...region001.gbk,Unknown:unknown,42.61,complete,GCF_00012,989,view
+Streptomyces coffeae CA1R205,c00132_NZ_JAER...region002.gbk,Unknown:unknown,91.39,complete,GCF_05132,2111,view
+Streptomyces coffeae CA1R205,c00132_NZ_JAER...region003.gbk,Unknown:unknown,84.98,complete,GCF_00363,1994,view
